@@ -21,10 +21,6 @@ Estes modelos foram empregados em diferentes tarefas relacionadas ao processamen
 
 [Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Unesp](https://www.unesp.br/ppgcc)
 
-## Como Executar
-
-*Instruções de como configurar e executar o código (se necessário)*.
-
 ## Licença
 
 Este repositório está licenciado sob a [Licença MIT](LICENSE).
