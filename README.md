@@ -21,6 +21,36 @@ Estes modelos foram empregados em diferentes tarefas relacionadas ao processamen
 
 [Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Unesp](https://www.unesp.br/ppgcc)
 
+
+## Como Executar
+
+Para rodar o projeto, siga os passos abaixo:
+
+1. **Instale as dependências**:
+
+    Execute o seguinte comando para instalar as bibliotecas necessárias:
+
+    ```bash
+    pip install torch transformers langchain rich bitsandbytes
+    ```
+
+2. **Faça login no Hugging Face**:
+
+    Para acessar alguns dos modelos utilizados, é necessário estar logado no Hugging Face. Execute o seguinte comando e insira suas credenciais:
+
+    ```bash
+    huggingface-cli login
+    ```
+
+3. **Execute o chatbot**:
+
+    Para rodar o chatbot, execute o seguinte comando:
+
+    ```bash
+    python chatbot.py
+    ```
+
+
 ## Licença
 
 Este repositório está licenciado sob a [Licença MIT](LICENSE).
